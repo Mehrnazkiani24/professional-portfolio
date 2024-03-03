@@ -107,5 +107,30 @@ header nav a {
 }
 
 .section-content a{
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+
+}
+
+.resume{
+    width: 100%;
+    height: 100vh;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    height:10vh;
+    position:sticky;
+    bottom:0;
+    background-color:  rgb(54, 20, 146);
+    color:white;
+}
+
+#resume-link{
+    width:100%;
+    font-size: 1.25rem;
+}
+
+#resume-content{
+    display: block;
 }
