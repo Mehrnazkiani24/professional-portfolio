@@ -1,7 +1,7 @@
 header {
     display: flex;
     justify-content: space-between;
-    background-color: rgb(146, 20, 142);
+    background-color: rgb(54, 20, 146);
     color: white;
 }
 
@@ -19,7 +19,7 @@ header nav {
 }
 
 header nav a {
-    color: aqua;
+    color: rgb(41, 142, 142);
     font-size: 1.25rem;
     /* padding-top: 5%;
     margin-top: 1%; */
@@ -76,13 +76,13 @@ header nav a {
 }
 
 .work {
-    width: 40%;
-    max-width: 40%;
+    width: 43%;
+    max-width: 43%;
     padding: 1%;
     position: relative;
     border: 5px solid black;
     border-radius: 5px;
-    margin:1.5%;
+    margin: 1.35%;
 }
 
 .work a{
@@ -104,4 +104,8 @@ header nav a {
 #feature{
     width:100%;
     max-width: 100%;
+}
+
+.section-content a{
+    font-size: 1.5rem;
 }
